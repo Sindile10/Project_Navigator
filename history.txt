@@ -1,0 +1,18 @@
+echo "  500  mkdir Project-Navigator
+  501  git clone https://github.com/Sindile10/Project_Navigator.git
+  502  cd Project-Navigator
+  503  touch bunny.txt
+  504  nano bunny.txt
+  505   nano bunny.txt
+  506  chmod +x bunny.txt
+  507  ./bunny.txt
+  508  git init
+  509  git add .
+  510  git commit -m "bunny.txt" > Project-Navigator
+  511  git remote add origin
+  512  git remote add origin https://github.com/Sindile10/Project_Navigator.git
+  513  git push origin main
+  514  git push origin master
+  515  touch history.txt
+  516  history"
+
