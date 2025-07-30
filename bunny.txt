@@ -1,0 +1,3 @@
+echo "The project’s purpose"
+echo "Your personal details"
+
